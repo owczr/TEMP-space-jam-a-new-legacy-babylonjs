@@ -14,7 +14,7 @@ Build Project <br>
 `npm run build`	
 
 Run the project <br>	
-`npm start`	
+`npm start`	 
 
-Open in VS Code <br>	
-`code .`
+Open in Neovim <br>	
+`nvim .`
